@@ -1,0 +1,5 @@
+name = "new7b18"
+main = "_worker.js"
+compatibility_date = "2025-10-28"
+usage_model = "bundled"
+workers_dev = true
